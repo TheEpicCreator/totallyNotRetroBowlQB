@@ -80,7 +80,7 @@
         </div>
         <!-- Run the game code -->
 
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/TheEpicCreator/totallyNotRetroBowlQB@v1.0.2/RetroBowl.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/TheEpicCreator/totallyNotRetroBowlQB@v1.0.3/RetroBowl.js"></script>
         <script>window.onload = GameMaker_Init;</script>
     </body>
 </html> ]]>
